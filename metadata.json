@@ -1,0 +1,5 @@
+{
+  "name": "Prompt Engineering Adventure",
+  "description": "An interactive game with animated characters to learn the art of prompt engineering using the Gemini API. Guide Sparky the robot through various challenges by crafting effective prompts!",
+  "requestFramePermissions": []
+}
